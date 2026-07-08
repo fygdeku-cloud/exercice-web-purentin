@@ -1,0 +1,16 @@
+:root {
+    --bg-dark: #050505;
+    --bg-surface: rgba(255, 255, 255, 0.03);
+    --text-primary: #ffffff;
+    --text-muted: #a0a0a0;
+    
+    --accent-primary: #00ffcc;
+    --accent-secondary: #7b2cbf;
+    --gradient-glow: linear-gradient(135deg, var(--accent-primary), var(--accent-secondary));
+    
+    --font-body: 'Inter', sans-serif;
+    --font-heading: 'Outfit', sans-serif;
+    
+    --glass-border: 1px solid rgba(255, 255, 255, 0.08);
+    --glass-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+}
